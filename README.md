@@ -18,7 +18,7 @@ This repository contains the submission for **3rd Year Weekly Modules**.
 * [ ] Final PDF Uploaded
 * [ ] Submission Ready
 
-#week 1 pdf:
+#week 1 pdf: Week 1 Module.pdf
 #week 2 pdf:
 ---
 
