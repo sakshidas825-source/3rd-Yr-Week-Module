@@ -24,6 +24,8 @@ This repository contains the submission for **3rd Year Weekly Modules**.
 
 #week 3 pdf: [Week 3 Module.pdf](https://github.com/sakshidas825-source/3rd-Yr-Week-Module/blob/main/Week%20%203%20Module.pdf)
 
+#week 4 pdf: [Week 4 Module.pdf]
+
 ---
 ### Author
 
